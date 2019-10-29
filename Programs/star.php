@@ -11,7 +11,7 @@ for($h;$h>0;$h--)
         echo "*"; //printing star
         echo " ";
     }
-    echo "<br>"; printing in new line
+    echo "<br>"; //printing in new line
     
  }
  ?>
